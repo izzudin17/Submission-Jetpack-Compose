@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Club Football</string>
+    <string name="email_author">izzudinadian@gmail.com</string>
+    <string name="name_author">Izzudin Adian Khusaini</string>
+    <string name="search_text">Cari Club</string>
+    <string name="add_bookmark">Tambahkan ke Favorit</string>
+    <string name="delete_bookmark">Hapus Favorit</string>
+    <string name="empty_bookmark">Tidak Ada Daftar Favorit</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
